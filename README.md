@@ -1,16 +1,62 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Cachopin789/Cachopin789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:2563eb,100:7c3aed&height=190&section=header&text=Cachopin789&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=IA%20%C2%B7%20Automatizaci%C3%B3n%20%C2%B7%20C%C3%B3digo%20con%20curiosidad&descAlignY=60&descSize=18&animation=fadeIn" alt="Cabecera de Cachopin789" />
 
-Here are some ideas to get you started:
+<a href="https://github.com/Cachopin789">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=600&lines=Construyendo+ideas+con+IA+y+automatizaci%C3%B3n;Aprendiendo+a+trav%C3%A9s+de+proyectos+reales;De+la+curiosidad+al+c%C3%B3digo+que+funciona." alt="Presentación animada" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## ✦ Quién soy
+
+Tengo 18 años y curso el primer año de **Ingeniería en Tecnologías de la Información**. Me interesa crear cosas útiles con código, especialmente cuando la **IA** y la **automatización** convierten una idea repetitiva en un proceso inteligente.
+
+Mi forma favorita de aprender es construir: probar, fallar, ajustar y volver a lanzar. Este verano empecé a explorar automatización de contenido para YouTube con IA; ahora sigo convirtiendo esos experimentos en herramientas reales.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 Me interesa</h3>
+      <p>Inteligencia artificial, automatización, creación de herramientas y vídeo.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Ahora mismo</h3>
+      <p>Construyendo flujos de post-producción de vídeo más rápidos y cuidados para FruitTales.</p>
+    </td>
+  </tr>
+</table>
+
+## ⚙️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+</p>
+
+## 🚀 Proyecto en foco
+
+<a href="https://github.com/Cachopin789/fruittales-video-pipeline">
+  <img align="right" width="150" src="https://img.shields.io/badge/VER%20PROYECTO-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Ver FruitTales Video Pipeline" />
+</a>
+
+### [FruitTales Video Pipeline](https://github.com/Cachopin789/fruittales-video-pipeline)
+
+Pipeline de post-producción de vídeo con IA para mi canal de YouTube **FruitTales**. Centraliza la mejora de calidad, adaptación a 16:9, generación de títulos, descripciones, hashtags y prompts de miniatura, además de ajustes de audio orientados a reducir el riesgo de reclamaciones de copyright.
+
+<br clear="right" />
+
+## 📈 GitHub en números
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Cachopin789&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cachopin789&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más usados" />
+</div>
+
+<div align="center">
+
+<sub>🌌 Aprendiendo en público, construyendo con intención y automatizando el siguiente paso.</sub>
+
+</div>
