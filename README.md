@@ -72,9 +72,13 @@ Herramienta de automatización de post-producción de vídeo con IA para mi cana
 
 > Aprender en público, construir con intención y mejorar cada proyecto una versión más.
 
-## 🌱 Próximo nivel
+## 🎯 Hoja de ruta
 
-Seguir profundizando en Python, automatización e IA aplicada mientras desarrollo proyectos que resuelvan problemas concretos y demuestren lo que voy aprendiendo.
+| Ahora | Siguiente paso | Objetivo |
+| :-- | :-- | :-- |
+| Python y automatización | IA aplicada a flujos reales | Crear herramientas útiles y bien documentadas |
+| Edición y contenido | Pipelines de vídeo más sólidos | Convertir ideas creativas en procesos reproducibles |
+| Fundamentos de ITI | Proyectos de mayor alcance | Aprender haciendo y dejar evidencia en cada repositorio |
 
 ---
 
