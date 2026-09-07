@@ -34,6 +34,16 @@ Este verano estuve experimentando con automatización de contenido para YouTube 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+<sub>Aprendiendo y usando estas tecnologías con proyectos propios, no solo siguiendo tutoriales.</sub>
+
+## 🧩 Cómo me gusta construir
+
+| Idea | Mi enfoque |
+| :-- | :-- |
+| 💡 Empezar pequeño | Convertir una idea en una primera versión funcional cuanto antes. |
+| 🔁 Iterar | Medir lo que funciona, corregir lo que no y mejorar paso a paso. |
+| 📝 Documentar | Dejar los proyectos claros para poder retomarlos, aprender y compartirlos. |
+
 ## 🚀 En foco
 
 ```text
@@ -61,6 +71,10 @@ Herramienta de automatización de post-producción de vídeo con IA para mi cana
 ## 🧭 Mi enfoque
 
 > Aprender en público, construir con intención y mejorar cada proyecto una versión más.
+
+## 🌱 Próximo nivel
+
+Seguir profundizando en Python, automatización e IA aplicada mientras desarrollo proyectos que resuelvan problemas concretos y demuestren lo que voy aprendiendo.
 
 ---
 
