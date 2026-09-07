@@ -1,9 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:2563eb,100:7c3aed&height=190&section=header&text=Cachopin789&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=IA%20%C2%B7%20Automatizaci%C3%B3n%20%C2%B7%20C%C3%B3digo%20con%20curiosidad&descAlignY=60&descSize=18&animation=fadeIn" alt="Cabecera de Cachopin789" />
+<img width="100%" src="./assets/ai-video-banner.png" alt="Red neuronal luminosa transformándose en una secuencia de vídeo" />
+
+# Cachopin789
+
+### IA, automatización y código con curiosidad
 
 <a href="https://github.com/Cachopin789">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=600&lines=Construyendo+ideas+con+IA+y+automatizaci%C3%B3n;Aprendiendo+a+trav%C3%A9s+de+proyectos+reales;De+la+curiosidad+al+c%C3%B3digo+que+funciona." alt="Presentación animada" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=600&lines=Construyendo+ideas+con+IA+y+automatizaci%C3%B3n;Aprendiendo+a+trav%C3%A9s+de+proyectos+reales;De+la+curiosidad+al+c%C3%B3digo+que+funciona." alt="De la curiosidad al código que funciona" />
 </a>
 
 </div>
@@ -48,12 +52,14 @@ Pipeline de post-producción de vídeo con IA para mi canal de YouTube **FruitTa
 
 <br clear="right" />
 
-## 📈 GitHub en números
+## 🗺️ Mi ruta ahora
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Cachopin789&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cachopin789&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más usados" />
-</div>
+```text
+01  Aprender fundamentos sólidos de desarrollo
+02  Construir automatizaciones que ahorren tiempo
+03  Explorar IA aplicada a proyectos reales
+04  Compartir el proceso, no solo el resultado
+```
 
 <div align="center">
 
