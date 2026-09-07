@@ -14,6 +14,19 @@ Me gusta aprender construyendo: probar una idea, romper alguna cosa por el camin
 
 Este verano estuve experimentando con automatización de contenido para YouTube usando IA. Es solo el principio, pero ya hay proyectos reales en marcha. ⚙️
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>🧠 Exploro</strong><br />
+      IA aplicada, automatización y herramientas que reducen trabajo repetitivo.
+    </td>
+    <td width="50%" valign="top">
+      <strong>🎬 Construyo</strong><br />
+      Flujos de vídeo y contenido que sean claros, reutilizables y fáciles de mejorar.
+    </td>
+  </tr>
+</table>
+
 ## 🧰 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -21,19 +34,33 @@ Este verano estuve experimentando con automatización de contenido para YouTube 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 🚀 Ahora mismo
+## 🚀 En foco
 
-Construyendo herramientas que combinan automatización, edición de vídeo e IA para convertir ideas de contenido en procesos más rápidos y cuidados.
+```text
+01  Consolidar fundamentos de desarrollo.
+02  Aplicar IA a automatizaciones de contenido y vídeo.
+03  Convertir experimentos personales en proyectos documentados.
+```
 
 ## ✨ Proyecto destacado
 
 ### [FruitTales Video Pipeline](https://github.com/Cachopin789/fruittales-video-pipeline)
 
-Herramienta de automatización de post-producción de vídeo con IA para mi canal de YouTube **FruitTales**. Mejora la calidad, adapta vídeos a 16:9 y genera borradores de títulos, descripciones, hashtags y prompts de miniatura.
+Herramienta de automatización de post-producción de vídeo con IA para mi canal de YouTube **FruitTales**.
 
-## 📊 Actividad en GitHub
+| Función | Resultado |
+| :-- | :-- |
+| 🎞️ Procesamiento | Mejora y adapta vídeos a formatos como 16:9. |
+| ✍️ Publicación | Genera borradores de títulos, descripciones, hashtags y prompts de miniatura. |
+| ⚙️ Flujo de trabajo | Centraliza tareas para que el proceso sea más rápido, reproducible y fácil de revisar. |
 
-![Estadísticas de GitHub de Cachopin789](https://github-readme-stats.vercel.app/api?username=Cachopin789&show_icons=true&hide_title=true&theme=dark&locale=es)
+<a href="https://github.com/Cachopin789/fruittales-video-pipeline">
+  <img src="https://img.shields.io/badge/Explorar_el_proyecto-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explorar FruitTales Video Pipeline" />
+</a>
+
+## 🧭 Mi enfoque
+
+> Aprender en público, construir con intención y mejorar cada proyecto una versión más.
 
 ---
 
