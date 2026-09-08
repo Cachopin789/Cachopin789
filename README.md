@@ -56,7 +56,7 @@ Este verano estuve experimentando con automatización de contenido para YouTube 
 
 ### [FruitTales Video Pipeline](https://github.com/Cachopin789/fruittales-video-pipeline)
 
-Herramienta de automatización de post-producción de vídeo con IA para mi canal de YouTube **FruitTales**, ahora con FruitTales Guardian: un bot de Discord con avisos automáticos de YouTube, estadísticas del canal y comandos para descubrir y seguir nuevas publicaciones.
+Herramienta de automatización de post-producción de vídeo para mi canal de YouTube **FruitTales**, ampliada con FruitTales Guardian: un bot de Discord con avisos automáticos de YouTube, estadísticas del canal y comandos para descubrir y seguir nuevas publicaciones.
 
 | Función | Resultado |
 | :-- | :-- |
