@@ -32,6 +32,9 @@ Este verano estuve experimentando con automatización de contenido para YouTube 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 <sub>Aprendiendo y usando estas tecnologías con proyectos propios, no solo siguiendo tutoriales.</sub>
@@ -56,14 +59,14 @@ Este verano estuve experimentando con automatización de contenido para YouTube 
 
 ### [FruitTales Video Pipeline](https://github.com/Cachopin789/fruittales-video-pipeline)
 
-Herramienta de automatización de post-producción de vídeo para mi canal de YouTube **FruitTales**, ampliada con FruitTales Guardian: un bot de Discord con avisos automáticos de YouTube, estadísticas del canal y comandos para descubrir y seguir nuevas publicaciones.
+Herramienta de automatización de post-producción de vídeo para mi canal de YouTube **FruitTales**, ampliada con FruitTales Guardian: un bot de Discord con avisos automáticos de YouTube, estadísticas del canal y comandos para descubrir vídeos, seguir publicaciones y participar en la comunidad.
 
 | Función | Resultado |
 | :-- | :-- |
 | 🎞️ Procesamiento | Mejora y adapta vídeos a formatos como 16:9. |
 | ✍️ Publicación | Genera borradores de títulos, descripciones, hashtags y prompts de miniatura. |
 | ⚙️ Flujo de trabajo | Centraliza tareas para que el proceso sea más rápido, reproducible y fácil de revisar. |
-| 🤖 FruitTales Guardian | Envía avisos de YouTube y ofrece estadísticas, recomendaciones, calendario de próximos vídeos y comandos de estado. |
+| 🤖 FruitTales Guardian | Envía avisos de YouTube y ofrece estadísticas, recomendaciones, calendario, estado, sugerencias y encuestas para la comunidad. |
 
 <a href="https://github.com/Cachopin789/fruittales-video-pipeline">
   <img src="https://img.shields.io/badge/Explorar_el_proyecto-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explorar FruitTales Video Pipeline" />
