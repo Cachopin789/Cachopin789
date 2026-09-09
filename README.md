@@ -59,14 +59,14 @@ Este verano estuve experimentando con automatización de contenido para YouTube 
 
 ### [FruitTales Video Pipeline](https://github.com/Cachopin789/fruittales-video-pipeline)
 
-Herramienta de automatización de post-producción de vídeo para mi canal de YouTube **FruitTales**, ampliada con FruitTales Guardian: un bot de Discord con avisos automáticos de YouTube, estadísticas del canal y comandos para descubrir vídeos, seguir publicaciones y participar en la comunidad.
+Herramienta de automatización de post-producción de vídeo para mi canal de YouTube **FruitTales**, ampliada con FruitTales Guardian: un bot de Discord con avisos automáticos de YouTube, estadísticas del canal y comandos para descubrir vídeos, seguir publicaciones, participar en la comunidad y gestionar el servidor.
 
 | Función | Resultado |
 | :-- | :-- |
 | 🎞️ Procesamiento | Mejora y adapta vídeos a formatos como 16:9. |
 | ✍️ Publicación | Genera borradores de títulos, descripciones, hashtags y prompts de miniatura. |
 | ⚙️ Flujo de trabajo | Centraliza tareas para que el proceso sea más rápido, reproducible y fácil de revisar. |
-| 🤖 FruitTales Guardian | Envía avisos de YouTube y ofrece estadísticas, recomendaciones, calendario, estado, sugerencias y encuestas para la comunidad. |
+| 🤖 FruitTales Guardian | Envía avisos de YouTube y ofrece estadísticas, recomendaciones, calendario, estado, sugerencias, encuestas y gestión privada de canales, roles, invitaciones y ajustes. |
 
 <a href="https://github.com/Cachopin789/fruittales-video-pipeline">
   <img src="https://img.shields.io/badge/Explorar_el_proyecto-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explorar FruitTales Video Pipeline" />
